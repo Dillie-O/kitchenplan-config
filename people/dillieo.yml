@@ -68,19 +68,13 @@ attributes:
             include_sudoers_d: true
     homebrewalt:
         cask_apps:
-            - onepassword
             - dropbox
-            - istat-menus
-            - kaleidoscope
             - totalfinder
             - spotify
-            - bartender
+            - alfred
             - vmware-fusion
             - virtualbox
             - vagrant
-            - hazel
-            - sonos
-            - trailer
     nodejs:
         apps:
             - pageres
